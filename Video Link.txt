@@ -1,0 +1,3 @@
+1. Path planning Algorithm in RVIZ: https://youtu.be/XPGOpTJdAfE
+2. Path planning DJKSTRA algorithm: https://youtu.be/kujKfDG6Xyg
+3. Obstacle Avoidance in a Gazebo Simulated Environment: https://youtu.be/-ztGAD8ztvM
